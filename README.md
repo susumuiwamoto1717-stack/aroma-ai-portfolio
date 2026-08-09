@@ -1,6 +1,6 @@
 # アロマAI合格コーチ — AEAJ上位資格試験 伴走AI学習アプリ
 
-本番URL: https://ai.aroma8k.com
+本番URL: https://aroma-chat-site.vercel.app
 
 ※本リポジトリはBATTLE OF RUNTEQ vol.7 参加用の企画書（README）提出用です。
 アプリ本体のソースコードは、運用中サービスの独自RAGコーパス・
